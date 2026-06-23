@@ -1,2 +1,2 @@
 welcome
-this is new repository
+this is  repository
